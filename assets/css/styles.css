@@ -1,0 +1,8 @@
+#os-splide-slider .osea_carousel_image{
+    max-width: 500px!important;
+    width: 100%!important;
+    margin: 0 auto;
+}
+#os-splide-slider .splide__slide{
+    text-align: center;
+}
